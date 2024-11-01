@@ -1,5 +1,7 @@
 # Double Click Be Gone!
 
-yeah it does what the title says
+(Kinda) gets rid of double clicks
 
-open settings to change the delay of double click
+If it's not working or messes with your game, change the delay in the settings.
+
+THIS MOD CONFLICTS WITH CBF!
