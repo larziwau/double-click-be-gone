@@ -1,0 +1,29 @@
+{
+	"geode": "3.8.1",
+	"gd": {
+		"win": "2.206",
+		"mac": "2.206"
+	},
+	"id": "gedon76.double_click_be_gone",
+	"name": "Double Click Be Gone!",
+	"version": "v1.0.2",
+	"developer": "Gedon76",
+	"description": "(Kinda) gets rid of double clicks",
+	"settings": {
+		"disable": {
+			"type": "bool",
+			"name": "Disable Double Click Be Gone!",
+			"description": "Disable Double Click Be Gone",
+			"default": false
+		},
+		"delay": {
+			"type": "int",
+			"description": "Double click delay (ms)",
+			"default": 48
+		}
+	},
+	"repository": "https://github.com/gedon76/double-click-be-gone",
+	"tags": [
+		"gameplay"
+	]
+}
