@@ -1,5 +1,5 @@
 {
-	"geode": "3.8.1",
+	"geode": "3.9.0",
 	"gd": {
 		"win": "2.206",
 		"mac": "2.206"
@@ -8,7 +8,7 @@
 	"name": "Double Click Be Gone!",
 	"version": "v1.0.3",
 	"developer": "Gedon76",
-	"description": "(Kinda) gets rid of double clicks",
+	"description": "A mod that fixes double clicks",
 	"incompatibilities": [
 		{
 			"id": "syzzi.click_between_frames",
