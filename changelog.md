@@ -1,17 +1,12 @@
 # 1.0.3
 - Small description change
-- CBF...
 
 # 1.0.2
-- Re-release because hash
-- GitHub
-- Herobrine is no longer funny
+- Re-release because of the hash
 
 # 1.0.1
-- some fixes
-- removed dual mode support because my programming skills are awful
-- Removed Herobrine
+- Some fixes
+- Removed dual mode support
 
 # 1.0.0
-- Release!!!1
-- Added Herobrine
+- Release
