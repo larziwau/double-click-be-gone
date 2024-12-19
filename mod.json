@@ -1,14 +1,14 @@
 {
-	"geode": "3.9.0",
-	"gd": {
-		"win": "2.206",
-		"mac": "2.206"
-	},
-	"id": "gedon76.double_click_be_gone",
+	"id": "larziwau.double_click_be_gone",
 	"name": "Double Click Be Gone!",
-	"version": "v1.0.3",
-	"developer": "Gedon76",
+	"version": "v1.0.0",
+	"developer": "Gedon76, larzii",
 	"description": "A mod that fixes double clicks",
+	"geode": "4.1.1",
+	"gd": {
+		"win": "2.2074",
+		"mac": "2.2074"
+	},
 	"incompatibilities": [
 		{
 			"id": "syzzi.click_between_frames",
@@ -25,11 +25,11 @@
 		},
 		"delay": {
 			"type": "int",
-			"description": "Double click delay (ms)",
-			"default": 48
+			"description": "Double click delay (MS)",
+			"default": 30
 		}
 	},
-	"repository": "https://github.com/gedon76/double-click-be-gone",
+	"repository": "https://github.com/larziwau/double-click-be-gone",
 	"tags": [
 		"gameplay"
 	]
